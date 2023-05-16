@@ -1,7 +1,22 @@
-body {
-  background-color: #E3B8FF
+#firstSection {
+  /* background-color: #E3B8FF; */
+  height: 2000px;
+  /* color: white; */
+  height: 650px;
+  /* background-color: #FFF7FD; */
 }
 
+
 .nav-link {
-  color: white;
+  /* color: white; */
+}
+
+#secondSection {
+  /* background-color: #FFF7FD; */
+  background-color: #E3B8FF;
+  height: 350px;
+}
+
+#thirdSection {
+  /* background-color: #FFF7FD;  */
 }
