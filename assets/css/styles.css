@@ -19,6 +19,8 @@
 
 #thirdSection {
   /* background-color: #FFF7FD;  */
-  background-color: #00FFD7;
+  /* background-color: #00FFD7; */
   height: 600px;
+    background-image: url(https://images.pexels.com/photos/4194852/pexels-photo-4194852.jpeg);
+    background-position: center;
 }
