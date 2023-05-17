@@ -36,7 +36,7 @@ nav {
 }
 
 #fourthSection {
-  height: 550px;
+  height: 500px;
   /* position: relative; */
 }
 
@@ -44,5 +44,5 @@ nav {
   background-color: #710F99;
   /* color: white; */
   right: 30%;
-  top:7%
+  top:6%
 }
