@@ -24,3 +24,25 @@
     background-image: url(https://images.pexels.com/photos/4194852/pexels-photo-4194852.jpeg);
     background-position: center;
 }
+
+/* #nav {
+  background-image: url(https://images.pexels.com/photos/3527795/pexels-photo-3527795.jpeg);
+  background-position: center;
+  height: 100px;
+} */
+
+nav {
+  height: 100px;
+}
+
+#fourthSection {
+  height: 800px;
+  /* position: relative; */
+}
+
+#education {
+  background-color: #710F99;
+  /* color: white; */
+  right: 30%;
+  top:7%
+}
