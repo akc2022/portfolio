@@ -14,7 +14,7 @@
 #secondSection {
   /* background-color: #FFF7FD; */
   background-color: #E3B8FF;
-  height: 350px;
+  height: 700px;
 }
 
 #thirdSection {
@@ -43,7 +43,6 @@ nav {
 #education {
   background-color: #710F99;
   /* color: white; */
-  right: 30%;
   top:6%
 }
 
