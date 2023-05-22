@@ -1,11 +1,6 @@
 
-#secondSection {
-  background-color: #E3B8FF;
-
-}
 
 #thirdSection {
-  height: 600px;
     background-image: url(https://images.pexels.com/photos/4194852/pexels-photo-4194852.jpeg);
     background-position: center;
 }
@@ -15,16 +10,6 @@ nav {
   height: 100px;
 }
 
-#education {
-  background-color: #710F99;
-  top: -12%;
-}
-
-#fifthSection {
-  background-color: #E3B8FF;
-
-}
-
-footer {
+footer, #fifthSection, #secondSection {
   background-color: #E3B8FF;
 }
