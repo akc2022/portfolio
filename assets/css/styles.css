@@ -1,51 +1,30 @@
-#firstSection {
-  /* background-color: #E3B8FF; */
-  height: 2000px;
-  /* color: white; */
-  height: 650px;
-  /* background-color: #FFF7FD; */
-}
-
-
-.nav-link {
-  /* color: white; */
-}
 
 #secondSection {
-  /* background-color: #FFF7FD; */
   background-color: #E3B8FF;
-  height: auto;
+
 }
 
 #thirdSection {
-  /* background-color: #FFF7FD;  */
-  /* background-color: #00FFD7; */
   height: 600px;
     background-image: url(https://images.pexels.com/photos/4194852/pexels-photo-4194852.jpeg);
     background-position: center;
 }
 
-/* #nav {
-  background-image: url(https://images.pexels.com/photos/3527795/pexels-photo-3527795.jpeg);
-  background-position: center;
-  height: 100px;
-} */
 
 nav {
   height: 100px;
 }
 
-#fourthSection {
-  height: 500px;
-  /* position: relative; */
-}
-
 #education {
   background-color: #710F99;
-  /* color: white; */
+  top: -12%;
 }
 
 #fifthSection {
   background-color: #E3B8FF;
   height: 600px;
+}
+
+footer {
+  background-color: #E3B8FF;
 }
